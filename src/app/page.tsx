@@ -12,7 +12,7 @@ export default function Home() {
 
       <div>
         <p className="text-[#979797] pt-[20px] font-normal selection:bg-[#202020] selection:text-[#979797] text-[15px]">
-          <span className="text-white font-semibold selection:text-[white]">Hello!</span> I am a <span className="text-white font-semibold selection:text-[white]">Backend Developer</span> based in the serene Beauty of Maldives. <br />
+          <span className="text-white font-semibold selection:text-[white]">Hello!</span> I am a <span className="text-white font-semibold selection:text-[white]">Open Sourcerer</span> based in the serene Beauty of Maldives. <br />
           So yeah, that&apos;s it.
         </p>
       </div>
